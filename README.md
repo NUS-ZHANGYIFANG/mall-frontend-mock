@@ -1,0 +1,2 @@
+# mall-frontend-mock
+mock
