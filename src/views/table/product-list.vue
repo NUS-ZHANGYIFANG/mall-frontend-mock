@@ -51,7 +51,7 @@
           <el-tag>{{ row.type | typeFilter }}</el-tag>
         </template>
       </el-table-column>
-      <el-table-column label="Author" width="110px" align="center">
+      <el-table-column label="Brand" width="110px" align="center">
         <template slot-scope="{row}">
           <span>{{ row.author }}</span>
         </template>
